@@ -22,7 +22,7 @@ The basic statistics about benchmark applications are as follows. Note that the 
 | BIRS  | Bank Information Registration System |      Java, CSS, HTML, JavaScript       |
 | BIDS  | Bond Information Disclousure System  |      Java, CSS, HTML, JavaScript       |
 
-Benchmark applications is available [here](https://github.com/ScannerPlusPlus/ScannerPlusPlus/blob/main/BenchmarkWebsites.zip).
+Benchmark applications is available [here](https://github.com/ScannerPlusPlus/ScannerPlusPlus/blob/master/BenchmarkWebsites.zip).
 
 # Scanner++ Evaluation
 
